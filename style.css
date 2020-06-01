@@ -42,8 +42,9 @@ height:50px;
 }
 
 img{
-  float:left;
+  float:right;
 }
+img {width: 35%}
 
 a{
  color: white; 
