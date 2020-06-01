@@ -42,6 +42,12 @@ height:50px;
 }
 
 img{
+  float:left;
+}
+img {width: 35%}
+}
+
+img{
   float:right;
 }
 img {width: 35%}
